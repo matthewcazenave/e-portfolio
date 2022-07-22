@@ -511,5 +511,10 @@ footer {
         padding: 0;
     }
 
+    .footer__logo--img{
+      width: 180px;
+      height: 100px;
+    }
+
 }
 
