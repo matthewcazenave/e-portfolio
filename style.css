@@ -189,9 +189,9 @@ nav {
 
 .about-me_picture {
   width: 100%;
-  transform: scale(1.9);
-  padding-top: 18px;
-  padding-left: 10px;
+  transform: scale(1.7);
+  padding-top: 6px;
+  padding-left: 13px;
 }
 
 .about-me_info--para {
