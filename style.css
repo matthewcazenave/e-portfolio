@@ -455,7 +455,7 @@ footer {
 }
 
 .footer__anchor:hover .footer__logo--proper {
-  transform: translateX(60px);
+  transform: translateX(40px);
   opacity: 1;
 }
 
